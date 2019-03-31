@@ -1,1 +1,1 @@
-# -jsalt2019-diadet.github.io
+# JSALT webpage
