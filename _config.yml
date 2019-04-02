@@ -16,7 +16,7 @@
 title: Speaker Detection in Adverse Scenarios with a Single Microphone 
 email: leibny at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are a group of researcher meeting together to solve speaker detection in adverse scenarios. 
+  We are a group of researchers meeting together to solve speaker detection in adverse scenarios. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: blabla
