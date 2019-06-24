@@ -5,6 +5,8 @@ date: 2019-06-21 15:00:00 -0400
 categories: summer school
 ---
 
+![image](/assets/images/summer-school-participants.jpg)
+
 Every year, prior to the JSALT workshop, a summer school is organized and lasts 2 weeks. Graduate students and undergraduates are then invited to attend different lectures and labs. Every day, a different subject is introduced and everyone gets to learn about areas that are usually not their expertise! 
 
 Today is the last day of the summer school, and I thought we could the subjects we were lucky enough to be taught by different experts for the last 10 days:
